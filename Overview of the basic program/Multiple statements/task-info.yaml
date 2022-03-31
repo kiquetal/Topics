@@ -4,12 +4,12 @@ files:
   visible: true
   text: |-
     fun main() {
-        TODO("Remove this line and write your solution here")
+        println("Learn Kotlin")
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4369#comment
+feedback_link: https://hyperskill.org/learn/step/18840#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Thu, 31 Mar 2022 16:32:09 UTC
+  time: Thu, 31 Mar 2022 16:33:41 UTC
 record: -1
