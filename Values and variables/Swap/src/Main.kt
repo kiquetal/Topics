@@ -4,8 +4,6 @@ fun main() {
     val c = a
     a = b
     b = c
-
-
     // Do not touch the lines below
     print("$a $b")
 }
