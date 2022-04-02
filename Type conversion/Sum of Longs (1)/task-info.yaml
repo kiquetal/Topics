@@ -1,0 +1,17 @@
+type: code
+custom_name: Sum of Longs
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // write your code here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16965#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 02 Apr 2022 18:34:24 UTC
+record: -1
