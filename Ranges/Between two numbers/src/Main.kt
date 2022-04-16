@@ -1,6 +1,6 @@
 fun main() {
     // write your code here
-    val firtsNaumber = readLine()!!.toInt()
+    val firstNumber = readLine()!!.toInt()
     val secondNumber = readLine()!!.toInt()
     val thirdNumber = readLine()!!.toInt()
 
