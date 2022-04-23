@@ -5,5 +5,9 @@ files:
   text: "fun main() {\n    //write your code here   \n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/15135#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Tue, 19 Apr 2022 05:19:23 UTC
 record: -1

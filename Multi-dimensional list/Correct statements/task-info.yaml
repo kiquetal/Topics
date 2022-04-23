@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: Nested lists can be of different types in the same multi-dimensional list
+- text: A multi-dimensional list can be represented as a list of lists
 - text: Nested lists can have a different number of elements in the same multi-dimensional
     list
-- text: A multi-dimensional list can be represented as a list of lists
+- text: Nested lists can be of different types in the same multi-dimensional list
 - text: A multi-dimensional list can be either two- or three-dimensional
 files:
 - name: src/Main.kt

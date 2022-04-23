@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: mark numbers, that are greater than 1000.
-- text: separate digits of <code>Long</code> numbers only.
-- text: separate digits of <code>Int</code> numbers only.
 - text: logicaly separate any group of digits inside a number.
+- text: separate digits of <code>Int</code> numbers only.
+- text: separate digits of <code>Long</code> numbers only.
+- text: mark numbers, that are greater than 1000.
 files:
 - name: src/Main.kt
   visible: true

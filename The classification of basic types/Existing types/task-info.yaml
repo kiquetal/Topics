@@ -1,12 +1,12 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: Fraction
 - text: Integer
+- text: Double
 - text: Character
 - text: Int
-- text: Double
 - text: Char
+- text: Fraction
 files:
 - name: src/Main.kt
   visible: true
