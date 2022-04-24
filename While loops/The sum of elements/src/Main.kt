@@ -5,10 +5,10 @@ fun main() {
     do {
         val number = readLine()!!.toInt()
 
-        if (number != 0) {
-            sum += number
+        if (number !=0) {
+          sum += number
         }
-    } while (number != 0)
+    }while (number != 0)
     print(sum)
 
 }
