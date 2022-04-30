@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: the fun keyword
-- text: name
 - text: parentheses
-- text: the curly braces <b>{ }</b> for the body
 - text: a return type
+- text: the fun keyword
+- text: the curly braces <b>{ }</b> for the body
+- text: name
 files:
 - name: src/Main.kt
   visible: true
